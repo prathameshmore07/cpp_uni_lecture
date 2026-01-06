@@ -14,4 +14,3 @@ The purpose of this repository is to:
 - **Language:** C++
 - **Compiler:** GCC / G++
 - **Course Type:** University Programming Course
-- **Level:** Beginner to Intermediate
