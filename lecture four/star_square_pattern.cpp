@@ -3,18 +3,13 @@ using namespace std;
 
 int main()
 {
-    int n;
-    cout << "Enter number of rows: ";
-    cin >> n;
-
-    for (int i = 1; i <= n; i++)
+    for (int x = 1; x <= 5; x++)
     {
-        for (int j = 1; j <= i; j++)
+        for (int z = 1; z <= 5; z++)
         {
             cout << "*";
         }
         cout << endl;
     }
-
     return 0;
 }
