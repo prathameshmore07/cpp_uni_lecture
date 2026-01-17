@@ -1,0 +1,48 @@
+#include <iostream>
+using namespace std;
+
+class Bank
+{
+private:
+    int balance;
+
+public:
+
+    Bank()
+    {
+        balance = 5000;
+    }
+
+
+    void deposit(int amount)
+    {
+        balance += amount;
+        cout << "Amount deposited: " << amount << endl;
+        cout << "Current balance: " << balance << endl;
+    }
+
+
+    void withdraw(int amount)
+    {
+        if (amount <= balance)
+        {
+            balance -= amount;
+            cout << "Amount withdrawn: " << amount << endl;
+            cout << "Current balance: " << balance << endl;
+        }
+        else
+        {
+            cout << "Insufficient balance!" << endl;
+        }
+    }
+};
+
+int main()
+{
+    Bank b;
+
+    b.deposit(2000);
+    b.withdraw(1000);
+
+    return 0;
+}
