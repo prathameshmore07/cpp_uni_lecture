@@ -1,0 +1,23 @@
+101|Harry Potter and the Sorcerer's Stone|J.K. Rowling|0
+102|C++ Programming Basics|Bjarne Stroustrup|0
+103|Data Structures|Mark Allen Weiss|0
+104|Operating Systems|Silberschatz|1
+105|Computer Networks|Andrew Tanenbaum|0
+106|Python Crash Course|Eric Matthes|0
+107|Java Fundamentals|James Gosling|1
+108|Artificial Intelligence|Stuart Russell|0
+109|Machine Learning|Tom Mitchell|0
+110|Software Engineering|Ian Sommerville|0
+111|DBMS Concepts|Raghu Ramakrishnan|1
+112|Web Development Basics|Jon Duckett|0
+113|Cyber Security|Kevin Mitnick|0
+114|Cloud Computing|Rajkumar Buyya|0
+115|Computer Graphics|Donald Hearn|0
+116|Discrete Mathematics|Kenneth Rosen|0
+117|Game Development|Jason Gregory|0
+118|Mobile App Development|Paul Deitel|1
+119|Deep Learning|Ian Goodfellow|0
+120|Ethical Hacking|Daniel Graham|0
+56|maths |shweta mam|0
+166|maths|shweta|0
+867|maths |tamim|0
